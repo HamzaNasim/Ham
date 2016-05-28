@@ -1,0 +1,29 @@
+body{
+    background-color: palegoldenrod;
+    
+}
+
+
+h1{
+    color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:25px;
+    text-align: center;
+     
+}
+
+h2{
+    
+    color: darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    
+}
+p{
+    font-family: sans-serif;
+    color: firebrick;
+    text-align: justify;
+    margin: 0 auto;
+    width:50%;
+}
